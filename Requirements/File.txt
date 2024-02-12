@@ -1,0 +1,21 @@
+Passowrd: n?sXLGW_3fLn
+
+Secure SSL/TLS Settings (Recommended)
+Username:	alumni@myprojectcoding.xyz
+Password:	Use the email account’s password.
+Incoming Server:	mail.myprojectcoding.xyz
+IMAP Port: 993 POP3 Port: 995
+Outgoing Server:	mail.myprojectcoding.xyz
+SMTP Port: 465
+IMAP, POP3, and SMTP require authentication.
+Hide Non SSL/TLS Settings 
+
+
+Non-SSL Settings (NOT Recommended)
+Username:	alumni@myprojectcoding.xyz
+Password:	Use the email account’s password.
+Incoming Server:	mail.myprojectcoding.xyz
+IMAP Port: 143 POP3 Port: 110
+Outgoing Server:	mail.myprojectcoding.xyz
+SMTP Port: 26
+IMAP, POP3, and SMTP require authentication.
